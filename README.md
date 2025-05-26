@@ -6,5 +6,5 @@ In this repo, you can find schematics to all the builds that have been shown in 
 
 [QMD on Curseforge](https://www.curseforge.com/minecraft/mc-mods/qmd)
 
-[QMD Tutorials playlist on YT](https://www.youtube.com/playlist?list=PLeSWHnYBjXLI08W-qcPyZWbVHu6Lxe7p6])
+[QMD Tutorials playlist on YT](https://www.youtube.com/playlist?list=PLeSWHnYBjXLI08W-qcPyZWbVHu6Lxe7p6)
 
